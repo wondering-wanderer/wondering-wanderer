@@ -7,7 +7,7 @@
 
 
 My research interests are primarly focused on evolutionnary processes in wild populations.  I'm very interested in all the methods we can use and combine to better understand both ancient and ongoing evolutionnary events.
-
+<!--
 <div align="center" >
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=black">
   <img alt="RStudio" src="https://img.shields.io/badge/Rstudio-grey?style=for-the-badge&logo=rstudioide&logoColor=%75AADB">
@@ -22,7 +22,7 @@ My research interests are primarly focused on evolutionnary processes in wild po
 > *Proceed with caution if not provided*
 >   
 > ![Corvid Badge](https://img.shields.io/badge/Corvids-252525) ![Shark Badge](https://img.shields.io/badge/Sharks-023858) ![Ferns Badge](https://img.shields.io/badge/Ferns-2E4521) ![Coffee Badge](https://img.shields.io/badge/Coffee-3B2516)
-
+-->
 
 *Rest of the page loading........*
 
