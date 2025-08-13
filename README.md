@@ -1,25 +1,28 @@
-## Hi there 🌿
-<img alt="Static Badge" src="https://img.shields.io/badge/My%20Profile-white?style=flat&logo=ResearchGate&link=(https://www.researchgate.net/profile/Pauline-Richard-3)">  [![Email Badge](https://img.shields.io/badge/Contact_Me-green?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=252525&color=2E4521)](mailto:pauline.richard@cebc.cnrs.fr)
+<h1>Hi there 🌿</h1> 
+<a href="https://www.researchgate.net/profile/Pauline-Richard-3"><img alt="Static Badge" src="https://img.shields.io/badge/My%20Profile-white?style=flat&logo=ResearchGate"/></a>
+<a href="mailto:pauline.richard@cebc.cnrs.fr"><img alt="Email Badge" src="https://img.shields.io/badge/Contact_Me-green?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=252525&color=2E4521"/></a>
 
-I'm Pauline, a french PhD student on the evolutionnary processes on albatrosses' colonies of the French Southern Territories at the French National Center of Scientific Research (CNRS).  
-<!--
-> My research interests are primarly focused on evolutionnary processes in wild populations,
+<h4 align="center">I'm Pauline, a french  PhD student on the evolutionnary processes on albatrosses' colonies of the French Southern Territories at the French National Center of Scientific Research (CNRS).</h4>  
+    
 
+
+My research interests are primarly focused on evolutionnary processes in wild populations.  I'm very interested in all the methods we can use and combine to better understand both ancient and ongoing evolutionnary events.
 
 <div align="center" >
-  
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=black) ![RStudio](https://img.shields.io/badge/Rstudio-grey?style=for-the-badge&logo=rstudioide&logoColor=%75AADB) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=black">
+  <img alt="RStudio" src="https://img.shields.io/badge/Rstudio-grey?style=for-the-badge&logo=rstudioide&logoColor=%75AADB">
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 </div>
+
 
 
   
 > [!CAUTION]
-> *This user have a probably problematic relationship with the following entities*\
-> *Please proceed with caution if not provided*
+> *Please provide the following entities to this user to avoid system crash*\
+> *Proceed with caution if not provided*
 >   
 > ![Corvid Badge](https://img.shields.io/badge/Corvids-252525) ![Shark Badge](https://img.shields.io/badge/Sharks-023858) ![Ferns Badge](https://img.shields.io/badge/Ferns-2E4521) ![Coffee Badge](https://img.shields.io/badge/Coffee-3B2516)
--->
+
 
 *Rest of the page loading........*
 
