@@ -7,9 +7,10 @@
 <a href="https://www.researchgate.net/profile/Pauline-Richard-3"><img alt="Static Badge" src="https://img.shields.io/badge/My%20Profile-white?style=flat&logo=ResearchGate"/></a>
 <a href="mailto:pauline.richard@cebc.cnrs.fr"><img alt="Email Badge" src="https://img.shields.io/badge/Contact_Me-green?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=252525&color=2E4521"/></a>    
 
-<h4 align="center">I'm Pauline, a french PhD student on the evolutionnary processes on albatrosses' colonies of the French Southern Antarctic Territories.</h4>  
+<h4 align="center">I'm Pauline (she/her), a french PhD student working on evolutionnary processes on albatrosses' populations of the French Southern Antarctic Territories.</h4>  
 
 My research interests are primarly focused on evolutionnary processes in wild populations. I'd like to use and combine different methods to better understand both ancient and ongoing evolutionnary events. At the moment, I am one-year into my PhD taking place at the Centre d'Études Biologiques de Chizé (CEBC, CNRS). You will find below the abstract of my project : 
+> <h4><em> Natural selection, causality and demographic feedback in long-lived seabird populations </em></h4>
 >  <p align="justify">This PhD project aims to better understand the different mechanisms of natural selection in wild seabird populations, and to predict population dynamics in response to environmental change in the short term and in the long term. To that end, the latest data collected in the field will be combined to long-term studies on populations of wild albatrosses in the French Southern and Antarctic Lands (TAAF), to develop up-to-date methods of modelisation in evolutionary biology and population ecology. The results will allow to better understand and predict the responses of marine biodiversity to anthropogenic environmental changes. It will also allow us to include the role of natural selection within and between generations, which is largely underestimated and ignored especially within marine species.</p>
 
 I'm still trying to master new skills, but here are a few that I use pretty often:  
@@ -28,7 +29,7 @@ I'm still trying to master new skills, but here are a few that I use pretty ofte
 > <sub> *thank you* </sub>
 
 <p align="center">
-Rest of the page loading........
+<i>Rest of the presentation : loading........</i>
 </p>
     </body>
 </html>
